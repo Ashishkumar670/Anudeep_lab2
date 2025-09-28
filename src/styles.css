@@ -1,0 +1,4 @@
+body { background: #f8f9fa; }
+.card img { height: 220px; object-fit: cover; }
+.img-thumb { height: 120px; object-fit: cover; }
+.admin-sidebar { min-height: 80vh; }
